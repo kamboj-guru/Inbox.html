@@ -1,0 +1,59 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guru Nanak Siksha Niketan Vidyalaya</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f8ff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #003366;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background: #003366;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Guru Nanak Siksha Niketan Vidyalaya</h1>
+    <p>Welcome to Our School</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>Guru Nanak Siksha Niketan Vidyalaya is dedicated to providing quality education and values to students.</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Phone: 6393630337</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Guru Nanak Siksha Niketan Vidyalaya</p>
+  </footer>
+</body>
+</html>
+
+
+---
+
+👉 Pehle file ka naam index.html kar lo, fir
